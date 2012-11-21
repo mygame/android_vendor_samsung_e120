@@ -110,4 +110,5 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/e120l/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
 	vendor/samsung/e120l/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
 	vendor/samsung/e120l/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
-	vendor/samsung/e120l/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw
+	vendor/samsung/e120l/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw\
+	vendor/samsung/e120l/proprietary/etc/hosts:system/etc/hosts
